@@ -9,8 +9,7 @@ https://frontend-hdd.firebaseapp.com/
 -----------------------------------------------------------------
 
 
-Desarrollo de la API - endpoint
-Backend desarrollado en Java utilizando el framework Spring
+Desarrollo de la API - endpoint -Backend desarrollado en Java utilizando el framework Spring
 
 Entidades:
 - AcercaDe
