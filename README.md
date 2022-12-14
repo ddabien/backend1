@@ -21,7 +21,7 @@ Autenticación basada en token (JWT)
 
 ----------------------------------------------------------------
 
-Ingreso por Login: 
+Ingreso por Login: (Botón "INGRESO")
 
 Usuario:  ***admin***
 
