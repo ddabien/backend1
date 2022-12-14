@@ -23,9 +23,11 @@ Autenticación basada en token (JWT)
 
 Ingreso por Login: 
 
-Usuario: $${\color{red}admin}$$
+Usuario: 
+$${\color{red}admin}$$
 
-Password: $${\color{red}admin}$$
+Password: 
+$${\color{red}admin}$$
 
 Instrucciones: ingrese y aguarde alrededor de 5 segundos para acceder a la página
 
